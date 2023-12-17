@@ -1,0 +1,15 @@
+
+*
+{
+    margin-left: 30px;
+}
+footer i
+{
+    display: flex;
+    font-size: 20px;
+}
+.menu :hover
+{
+color: orange;
+}
+
